@@ -1,6 +1,8 @@
 # Quick Note App
 A simple Quick Note web application that allows users to quickly create, edit, delete, and store notes locally. Built using HTML, CSS, and JavaScript. This app is designed for users who want to jot down ideas, tasks, or reminders on the go.
 
+# Live Demo
+https://vartikasingh28.github.io/Quick-Note-/
 
 ## Features
 
